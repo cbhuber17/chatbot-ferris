@@ -13,3 +13,5 @@ end2end/playwright-report/
 playwright/.cache/
 
 .vscode
+.env
+Wizard-Vicuna-7B-Uncensored.ggmlv3.q8_0.bin
